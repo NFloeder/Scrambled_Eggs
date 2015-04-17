@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Scrambled Eggs</string>
+
+    <string name="hello_world">Scrambled Eggs</string>
+    <string name="intro_text">How smart are you feeling?</string>
+    <string name="action_settings">Settings</string>
+    <string name="level_Easy">Dumb</string>
+    <string name="level_medium">mildly intellegent</string>
+    <string name="level_hard">smart</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="title_activity_level_easy">LevelEasy</string>
+    <string name="title_activity_medium">Medium</string>
+    <string name="title_activity_hard">Hard</string>
+    <string name="word">black</string>
+    <string name="text">fr</string>
+</resources>
